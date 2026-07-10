@@ -1,0 +1,19 @@
+Metric,Value
+Spot (S),150.0
+Strike (K),155.0
+"Time to expiry (T, years)",0.5
+Risk-free rate (r),0.05
+Volatility (σ),0.25
+Dividend yield (q),0.0
+Option type,call
+BSM Price,10.02985708051358
+Intrinsic,0.0
+Time value,10.02985708051358
+Delta,0.5176763137437517
+Gamma,0.015030284960888138
+Vega (per 1.0 vol),42.27267645249789
+Vega (per 1%),0.4227267645249789
+Theta (per year),-13.94924861217693
+Theta (per day),-0.03821711948541625
+Rho (per 1.0 rate),33.810794990524585
+Rho (per 1%),0.33810794990524584
